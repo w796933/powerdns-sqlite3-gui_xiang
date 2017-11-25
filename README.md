@@ -12,6 +12,9 @@ powerdns-sqlite3にWebGUIのPowerDNS-Adminをパッケージしました。
 ・環境変数に「ALLOW_RECURSION」を追加
 
 ###Usage:
+fix  slave  syn 
+https://github.com/w796933/powerdns-sqlite3-gui_xiang.git
+
 
 git clone https://github.com/gittrname/powerdns-sqlite3-gui.git
 
